@@ -53,6 +53,10 @@ class MainActivity : AppCompatActivity() {
           R.id.green_button -> box_five_text.setBackgroundResource(R.color.my_green)
 
         else -> view.setBackgroundColor(Color.LTGRAY)
+
+
+          //some comment
+
      }
 }
 
