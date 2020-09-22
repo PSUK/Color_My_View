@@ -102,7 +102,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:text="Button"
+            android:text="@string/AddedButton"
             app:layout_constraintBottom_toTopOf="@+id/yellow_button"
             app:layout_constraintEnd_toEndOf="@+id/yellow_button"
             app:layout_constraintStart_toStartOf="@+id/yellow_button" />
