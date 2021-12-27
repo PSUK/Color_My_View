@@ -107,4 +107,13 @@
             app:layout_constraintEnd_toEndOf="@+id/yellow_button"
             app:layout_constraintStart_toStartOf="@+id/yellow_button" />
 
+    <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/description"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="@+id/button"
+            app:layout_constraintStart_toStartOf="@+id/red_button" />
+
 </android.support.constraint.ConstraintLayout>
